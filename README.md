@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DimitrisAlexiou
 - 👀 I’m interested in Web/Mobile applications, Webpages and Software Development
-- 🌱 I’m currently learning Java, Javascript, Node JS, HTML, CSS, React, Typescript, MySQL, MongoDB
+- 🌱 I’m currently working as a Software Engineer at Intracom Telecom
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dalexiou199524@gmail.com
 
