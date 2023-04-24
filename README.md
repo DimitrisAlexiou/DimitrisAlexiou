@@ -22,7 +22,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dalexiou199524@gmail.com
 
-:hammer_and_wrench: Languages and Tools
+<h3> :hammer_and_wrench: Languages and Tools </h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
