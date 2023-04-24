@@ -1,8 +1,15 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/Q2T7BXRiDFPJcPoA7Z" width="480" height="294" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
+  <img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="260" height="174" frameBorder="0" class="giphy-  embed" allowFullScreen>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/dimitris-alexiou/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 - 👋 Hi, I’m @DimitrisAlexiou
 - 👀 I’m interested in Web/Mobile applications, Webpages and Software Development
