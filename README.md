@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/Q2T7BXRiDFPJcPoA7Z" width="480" height="294" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/bringglobal-work-computer-laptop-Q2T7BXRiDFPJcPoA7Z">via GIPHY</a></p>
+
 - 👋 Hi, I’m @DimitrisAlexiou
 - 👀 I’m interested in Web/Mobile applications, Webpages and Software Development
 - 🌱 I’m currently working as a Software Engineer at Intracom Telecom
