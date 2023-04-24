@@ -3,11 +3,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dimitris-alexiou/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/dimitris-alexiou/" target="_blank" rel="noreferrer" style="border-radius: 50rem;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/dim__alexiou" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://twitter.com/dim__alexiou" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -22,7 +22,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dalexiou199524@gmail.com
 
-:hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
