@@ -45,7 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
-<h3>📫 Contact</h3>
+<h3>📬 Contact</h3>
 <div>
   <p>You can reach me on my LinkedIn above or @ dalexiou199524@gmail.com</p>
 </div>
