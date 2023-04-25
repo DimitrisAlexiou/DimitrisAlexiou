@@ -16,11 +16,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 👋 Hi, I’m Dimitris Alexiou
+<h3>I'm Dimitris Alexiou :man_technologist:</h3>
+
+- :computer: FullStack Software Engineer from :greece:
 - 👀 I’m interested in Web/Mobile applications, Webpages and Software Development
 - 🌱 I’m currently working as a Software Engineer at Intracom Telecom
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dalexiou199524@gmail.com
+<!--- - 💞️ I’m looking to collaborate on ... --->
 
 <h3> :hammer_and_wrench: Languages and Tools </h3>
 <div>
@@ -44,6 +45,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
+<h3>📫 Contact</h3>
+<div>
+  <p>You can reach me on my LinkedIn above or @ dalexiou199524@gmail.com</p>
+</div>
 <!---
 DimitrisAlexiou/DimitrisAlexiou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
