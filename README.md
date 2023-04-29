@@ -47,7 +47,7 @@
 
 <h3>📬 Contact</h3>
 <div>
-  <p>You can reach me on my LinkedIn above or @ dalexiou199524@gmail.com</p>
+  <p>You can reach me on my LinkedIn</p>
 </div>
 <!---
 DimitrisAlexiou/DimitrisAlexiou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
