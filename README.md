@@ -20,7 +20,7 @@
 
 - :computer: FullStack Software Engineer from :greece:
 - 👀 I’m interested in Web/Mobile applications, Webpages and Software Development
-- 🌱 I’m currently working as a Software Engineer at Intracom Telecom
+- 🌱 I’m currently working as a Software Engineer at Netcompany Intrasoft
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 <h3> :hammer_and_wrench: Languages and Tools </h3>
